@@ -2,6 +2,24 @@ body {background-image: url(images/demetra-logo.jpg);}
 .list-group {float: left;
 margin-left: 15px}
 
+
+
 footer {text-align: center;}
 
-          
+  .ulclass {  position: relative;
+  display: block;
+  padding-top: 100px;
+  padding-right: 40px;
+  padding-bottom: 30px;
+  padding-left:22px;
+  margin-bottom: -1px;
+  height:30px;
+ 	background-color: #222;
+  border-color: #080808;}
+
+  .korisni {background-color: #222;
+  	float: left;
+  	margin-top: -20px;
+  	position: relative;}
+
+  	
